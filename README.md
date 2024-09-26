@@ -1,50 +1,45 @@
-# 📚 [Book Title]
+# 📚 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
-Welcome to the repository for **[Book Title]** by **[Author Name]**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
+Welcome to the repository for **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by **Aurélien Géron**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
 
 ## 📖 Overview
 
-- **Author:** [Author Name]
-- **Published:** [Year]
-- **Description:** A brief overview of the book and its key themes or topics.
+- **Author:** Aurélien Géron
+- **Published:** 2017 (Second Edition: 2019)
+- **Description:** This book provides a practical introduction to machine learning using Scikit-Learn, Keras, and TensorFlow. It covers a wide range of topics, from basic machine learning concepts to deep learning, and emphasizes hands-on coding exercises to build real-world applications.
 
 ## 📝 Notes
 
 This section contains organized notes from the book, summarizing key concepts and important points.
 
-### Chapter 1: [Chapter Title]
-- Key concepts from Chapter 1.
-- Important definitions or theories.
+### Chapter 1: The Machine Learning Landscape
 
-### Chapter 2: [Chapter Title]
-- Key concepts from Chapter 2.
-- Important definitions or theories.
+- [example1.py](/Chapter1/example1.py) 
+- [example2.py](/Chapter1/example2.py)
+- [01_machine_learning_landscape.md](/Chapter1/01_machine_learning_landscape.md)
 
-*(Continue for additional chapters as needed)*
+
+### Chapter 2: End-to-End Machine Learning Project
+
 
 ## 💡 Exercise Solutions
 
 This section includes solutions to exercises from the book, organized by chapter.
 
 ### Chapter 1 Exercises
-- **Exercise 1.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
 
-- **Exercise 1.2:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
+- [exercises_solutions.ipynb](/Chapter1/exercises_solutions.ipynb)
+
 
 ### Chapter 2 Exercises
-- **Exercise 2.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
 
-*(Continue for additional chapters as needed)*
 
 ## 🤝 Contributing
 
 Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request. 
 
 1. Fork the repository.
-2. Create a new branch (e.g., `feature/your-feature`).
+2. Create a new branch (e.g., `add-your-notes`).
 3. Make your changes.
 4. Submit a pull request.
 
