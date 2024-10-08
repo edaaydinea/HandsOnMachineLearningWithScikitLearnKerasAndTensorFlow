@@ -21,17 +21,27 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 2: End-to-End Machine Learning Project
 
+- [02_end_to_end_machine_learning_project.ipynb](/Chapter2/02_end_to_end_machine_learning_project.ipynb)
+
+### Chapter 3: Classification
+
+- [03_classification.ipynb](/Chapter3/03_classification.ipynb)
+
+### Chapter 4: Training Models
+
+- [04_training_linear_models.ipynb](/Chapter4/04_training_linear_models.ipynb)
+
 
 ## 💡 Exercise Solutions
-
-This section includes solutions to exercises from the book, organized by chapter.
 
 ### Chapter 1 Exercises
 
 - [exercises_solutions.ipynb](/Chapter1/exercises_solutions.ipynb)
 
 
-### Chapter 2 Exercises
+### Chapter 4 Exercises
+
+- [exercises_solutions.ipynb](/Chapter4/exercises_solutions.ipynb)
 
 
 ## 🤝 Contributing
